@@ -1,122 +1,124 @@
 {
-   "Name":"Mercury",
-   "HidedStatistics":false,
-   "Score":21.0000153,
-   "harvesting":{
-      "HarvestingList":{
-         
-      },
-      "AllHarvesting":0
-   },
-   "otherStat":{
-      "CrateOpen":0,
-      "BarrelDeath":0,
-      "AllCraft":0,
-      "BuildingCrate":0,
-      "AnimalsKill":0
-   },
-   "explosion":{
-      "ExplosionUsed":{
-         "explosive.timed":0,
-         "explosive.satchel":0,
-         "grenade.beancan":0,
-         "grenade.f1":0,
-         "ammo.rocket.basic":0,
-         "ammo.rocket.hv":0,
-         "ammo.rocket.fire":0,
-         "ammo.rifle.explosive":0
-      },
-      "AllExplosionUsed":0
-   },
-   "gather":{
-      "GatheredTotal":{
-         "wood":0,
-         "stones":0,
-         "metal.ore":0,
-         "sulfur.ore":0,
-         "hq.metal.ore":0,
-         "scrap":0
-      },
-      "AllGathered":0
-   },
-   "weapon":{
-      "WeaponUsed":{
-         
-      }
-   },
-   "pVP":{
-      "Kills":0,
-      "KillsNpc":3,
-      "Deaths":1,
-      "Suicides":0,
-      "Shots":0,
-      "Headshots":0,
-      "HeliKill":0,
-      "BradleyKill":0
-   },
-   "playedTime":{
-      "DayNumber":"08/10/2022",
-      "PlayedForWipe":35,
-      "PlayedToday":35
-   },
-      "Name":"Mercury",
-   "HidedStatistics":false,
-   "Score":21.0000153,
-   "harvesting":{
-      "HarvestingList":{
-         
-      },
-      "AllHarvesting":0
-   },
-   "otherStat":{
-      "CrateOpen":0,
-      "BarrelDeath":0,
-      "AllCraft":0,
-      "BuildingCrate":0,
-      "AnimalsKill":0
-   },
-   "explosion":{
-      "ExplosionUsed":{
-         "explosive.timed":0,
-         "explosive.satchel":0,
-         "grenade.beancan":0,
-         "grenade.f1":0,
-         "ammo.rocket.basic":0,
-         "ammo.rocket.hv":0,
-         "ammo.rocket.fire":0,
-         "ammo.rifle.explosive":0
-      },
-      "AllExplosionUsed":0
-   },
-   "gather":{
-      "GatheredTotal":{
-         "wood":0,
-         "stones":0,
-         "metal.ore":0,
-         "sulfur.ore":0,
-         "hq.metal.ore":0,
-         "scrap":0
-      },
-      "AllGathered":0
-   },
-   "weapon":{
-      "WeaponUsed":{
-         
-      }
-   },
-   "pVP":{
-      "Kills":0,
-      "KillsNpc":3,
-      "Deaths":1,
-      "Suicides":0,
-      "Shots":0,
-      "Headshots":0,
-      "HeliKill":0,
-      "BradleyKill":0
-   },
-   "playedTime":{
-      "DayNumber":"08/10/2022",
-      "PlayedForWipe":35,
-      "PlayedToday":35
-   }
+    "AllStats": {
+        "User": "Mevent",
+        "HidedStatistics": false,
+        "Score": 21.0000153,
+        "harvesting": {
+            "HarvestingList": {
+            },
+            "AllHarvesting": 0
+        },
+        "otherStat": {
+            "CrateOpen": 0,
+            "BarrelDeath": 0,
+            "AllCraft": 0,
+            "BuildingCrate": 0,
+            "AnimalsKill": 0
+        },
+        "explosion": {
+            "ExplosionUsed": {
+                "explosive.timed": 0,
+                "explosive.satchel": 0,
+                "grenade.beancan": 0,
+                "grenade.f1": 0,
+                "ammo.rocket.basic": 0,
+                "ammo.rocket.hv": 0,
+                "ammo.rocket.fire": 0,
+                "ammo.rifle.explosive": 0
+            },
+            "AllExplosionUsed": 0
+        },
+        "gather": {
+            "GatheredTotal": {
+                "wood": 0,
+                "stones": 0,
+                "metal.ore": 0,
+                "sulfur.ore": 0,
+                "hq.metal.ore": 0,
+                "scrap": 0
+            },
+            "AllGathered": 0
+        },
+        "weapon": {
+            "WeaponUsed": {
+            }
+        },
+        "pVP": {
+            "Kills": 0,
+            "KillsNpc": 3,
+            "Deaths": 1,
+            "Suicides": 0,
+            "Shots": 0,
+            "Headshots": 0,
+            "HeliKill": 0,
+            "BradleyKill": 0
+        },
+        "playedTime": {
+            "DayNumber": "08/10/2022",
+            "PlayedForWipe": 35,
+            "PlayedToday": 35
+        }
+    },
+    "User": "Mevent2",
+    "HidedStatistics": false,
+    "Score": 21.0000153,
+    "harvesting": {
+        "HarvestingList": {
+        },
+        "AllHarvesting": 0
+    },
+    "otherStat": {
+        "CrateOpen": 0,
+        "BarrelDeath": 0,
+        "AllCraft": 0,
+        "BuildingCrate": 0,
+        "AnimalsKill": 0
+    },
+    "explosion": {
+        "ExplosionUsed": {
+            "explosive.timed": 0,
+            "explosive.satchel": 0,
+            "grenade.beancan": 0,
+            "grenade.f1": 0,
+            "ammo.rocket.basic": 0,
+            "ammo.rocket.hv": 0,
+            "ammo.rocket.fire": 0,
+            "ammo.rifle.explosive": 0
+        },
+        "AllExplosionUsed": 0
+    },
+    "gather": {
+        "GatheredTotal": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "scrap": 0
+        },
+        "AllGathered": 0
+    },
+    "weapon": {
+        "WeaponUsed": {
+        }
+    },
+    "pVP": {
+        "Kills": 0,
+        "KillsNpc": 3,
+        "Deaths": 1,
+        "Suicides": 0,
+        "Shots": 0,
+        "Headshots": 0,
+        "HeliKill": 0,
+        "BradleyKill": 0
+    },
+    "playedTime": {
+        "DayNumber": "08/10/2022",
+        "PlayedForWipe": 35,
+        "PlayedToday": 35
+    }
 }
+
+
+
+
